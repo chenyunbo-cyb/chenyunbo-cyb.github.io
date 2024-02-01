@@ -2,7 +2,7 @@
 layout:     post
 title:      《政治的人生》读后感
 subtitle:   "\"王沪宁日记《政治的人生》\""
-date:       2024-01-25
+date:       2024-02-01
 author:     YunbBo
 header-img: img/post-bg-desk.jpg
 catalog: true
